@@ -1,10 +1,5 @@
 #!/bin/bash
 
-
-# execute
-# $ chmod +x <this script path>
-# $ bash <this script path>
-
 echo "start"
 
 d=~
